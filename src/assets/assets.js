@@ -1,0 +1,46 @@
+import logo from './logo123.jpg';
+import cart from './food-cart123.jpg';
+
+import biryani from "./biriyani.jpg";
+import burger from "./burger.jpg";
+import cakes from "./cake.jpg";
+import icecream from "./ice-cream.jpg";
+import pizza from "./pizza.jpg";
+import rolls from "./rolls.jpg";
+import salad from "./salad.jpg";
+
+export const assets = {
+    logo,
+    cart,
+};
+
+export const categories = [
+    {
+        category: "Biryani",
+        icon: biryani
+    },
+    {
+        category: "Burger",
+        icon: burger
+    },
+    {
+        category: "Cakes",
+        icon: cakes
+    },
+    {
+        category: "Ice Creams",
+        icon: icecream
+    },
+    {
+        category: "Pizza",
+        icon: pizza
+    },
+    {
+        category: "Rolls",
+        icon: rolls
+    },
+    {
+        category: "Salad",
+        icon: salad
+    }
+];
