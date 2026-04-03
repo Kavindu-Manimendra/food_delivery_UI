@@ -20,15 +20,15 @@ export const categories = [
         icon: biryani
     },
     {
-        category: "Burger",
+        category: "Buger",
         icon: burger
     },
     {
-        category: "Cakes",
+        category: "Cake",
         icon: cakes
     },
     {
-        category: "Ice Creams",
+        category: "Ice cream",
         icon: icecream
     },
     {
